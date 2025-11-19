@@ -1,5 +1,7 @@
+#AÑADO COMENTARIO QUE VERIFICA EL TRABAJO XD
 
-# dfa_cli_compacto.py — versión reducida
+
+# dfa_cli_compacto.py — versión reducida 
 import sys, matplotlib.pyplot as plt, networkx as nx
 from matplotlib.patches import FancyArrowPatch
 
